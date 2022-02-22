@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    margin: 0px;
+}
+
+#content{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: indigo;
+    font-size: 130px;
+}

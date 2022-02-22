@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+
+#content {
+    font-family: cursive;
+    font-size: 200px;
+    color: darkgoldenrod;
+}

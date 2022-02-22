@@ -1,0 +1,29 @@
+h1{
+    color: #C93803;
+    font-size: 50px;
+    border: 2px dashed #BCA9A1;
+}
+
+h4{
+    color: #E5E5E3;
+    font-size: 20px;
+}
+
+li{
+    color: #BCA9A1;
+}
+
+body{
+    background-image: url('https://cdn.zmescience.com/wp-content/uploads/2021/09/jupiter-5866623_1920.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.orangered-text{
+    color:orangered;
+}
+
+#lua3-style{
+    font-style: italic;
+    color: orange;
+}

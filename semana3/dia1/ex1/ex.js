@@ -1,0 +1,5 @@
+alert("Bem-vindo! A seguir pediremos que informe alguns dados.")
+let nome = prompt("Digite seu nome:")
+let idade = prompt("Digite sua idade:")
+let confirma = confirm("Sua idade é " + idade + " anos?")
+alert("Seu nome é " + nome + " e você tem " + idade + " anos. \nIdade confirmada pelo usuário: " + confirma + ".")

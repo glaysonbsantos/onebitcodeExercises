@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+.content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chartreuse;
+    font-size: 300px;
+}

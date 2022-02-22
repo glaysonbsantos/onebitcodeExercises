@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(160, 149, 149);
+}
+
+.content {
+    font-family: fantasy;
+    font-size: 500px;
+    color: rgb(26, 53, 38);
+    margin: 0px;
+}
