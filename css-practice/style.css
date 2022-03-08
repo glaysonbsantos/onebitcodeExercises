@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #393838;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+    gap: 20px; 
+}
+
+a {
+    text-decoration: none;
+    color: #FBFBFB;
+    font-size: 1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    box-sizing: border-box;
+    background-color: #A02F33;
+}
