@@ -1,0 +1,20 @@
+.classe1 {
+    ul {
+        background-color: darkseagreen;
+    }
+
+    li {
+        background-color: bisque;
+        padding: 10px 0;
+    }
+
+    button {
+        background-color: crimson;
+        color: aliceblue;
+        cursor: pointer;
+        &:hover{
+            background-color:rgb(75, 24, 24);
+            transition: 500ms;
+        }
+    }
+}
