@@ -1,0 +1,15 @@
+.text-buy {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ff4043;
+}
+
+.btn {
+  padding: 10px 15px;
+  background-color: #353232;
+  border-radius: 50px;
+  color: #ff4043;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */
