@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  color: #660000;
+}
+
+.title {
+  height: 96vh;
+  background-color: black;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

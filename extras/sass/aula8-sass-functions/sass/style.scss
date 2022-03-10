@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    color: mix(red, black, 40%);
+}
+
+@function title-color($bg-color){
+    @if(lightness($bg-color) > 50){
+        @return black;
+    } @else{
+        @return white;
+    }
+}
+
+@mixin bg-color-mixin($color){
+    background-color: $color;
+    color: title-color($color);
+}
+
+.title{
+    height: 96vh;
+    @include bg-color-mixin(black);
+}
