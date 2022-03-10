@@ -1,0 +1,7 @@
+#cadastro-bg-color {
+    background-color: #141214;
+}
+
+#cadastro-text {
+    @include text-style(70px, times, $secondary-color);
+}

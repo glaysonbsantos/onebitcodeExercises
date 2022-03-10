@@ -1,0 +1,7 @@
+#login-bg-color {
+    background-color: #b003b0;
+}
+
+#login-text {
+    @include text-style(40px, cursive, $secondary-color);
+}

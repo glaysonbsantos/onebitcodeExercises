@@ -1,0 +1,7 @@
+#home-bg-color {
+    background-color: #c5b5c5;
+}
+
+#home-text {
+    @include text-style(100px, arial, $primary-color)
+}
